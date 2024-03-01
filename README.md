@@ -1,5 +1,7 @@
 # Ethicka-Hacking-Techniques---19CS417-
-Name:Irene jecitnha merlin.R
+Name:Irene jecinth merlin.R
+
+
 Reg no:212221040058
 # Echoserver
 Echo server and client using python socket
