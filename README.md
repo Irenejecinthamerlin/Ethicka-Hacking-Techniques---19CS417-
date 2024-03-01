@@ -60,5 +60,8 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 
 ## OUTPUT:
 
+<img width="960" alt="EHT-EXP01" src="https://github.com/Irenejecinthamerlin/Ethicka-Hacking-Techniques---19CS417-/assets/128350225/462e4207-cd82-4774-893b-734df6bdcc14">
+
+
 ## RESULT:
 The program is executed successfully
